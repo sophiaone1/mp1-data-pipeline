@@ -1,0 +1,26 @@
+altgraph @ file:///AppleInternal/Library/BuildRoots/4~CDlvugAeMYaHcTWIELyAQ2joHAecmlI0GAlKPsw/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
+certifi==2026.2.25
+cffi==2.0.0
+charset-normalizer==3.4.7
+cryptography==46.0.6
+future @ file:///AppleInternal/Library/BuildRoots/4~CDlvugAeMYaHcTWIELyAQ2joHAecmlI0GAlKPsw/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
+idna==3.11
+macholib @ file:///AppleInternal/Library/BuildRoots/4~CDlvugAeMYaHcTWIELyAQ2joHAecmlI0GAlKPsw/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
+markdown-it-py==3.0.0
+mdurl==0.1.2
+numpy==2.0.2
+pandas==2.3.3
+prompt_toolkit==3.0.52
+pycparser==2.23
+Pygments==2.20.0
+python-dateutil==2.9.0.post0
+pytz==2026.4
+PyYAML==6.0.3
+requests==2.32.5
+rich==14.3.3
+six @ file:///AppleInternal/Library/BuildRoots/4~CDlvugAeMYaHcTWIELyAQ2joHAecmlI0GAlKPsw/Library/Caches/com.apple.xbs/Sources/python3/six-1.15.0-py2.py3-none-any.whl
+tomli==2.4.1
+typing_extensions==4.15.0
+tzdata==2026.4
+urllib3==2.6.3
+wcwidth==0.6.0
